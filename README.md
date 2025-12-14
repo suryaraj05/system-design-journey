@@ -22,6 +22,7 @@ Each day includes:
 - Day 4: Caching
 - Day 5: Message Queues
 - Day 6: CAP Theorem
+- Day 7: ACID Vs BASE (Consistency Models)
 
 More topics coming daily.
 
