@@ -23,6 +23,7 @@ Each day includes:
 - Day 5: Message Queues
 - Day 6: CAP Theorem
 - Day 7: ACID Vs BASE (Consistency Models)
+- Day 8: Isolation Levels
 
 More topics coming daily.
 
