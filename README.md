@@ -24,6 +24,7 @@ Each day includes:
 - Day 6: CAP Theorem
 - Day 7: ACID Vs BASE (Consistency Models)
 - Day 8: Isolation Levels
+- Day 9: Circuit Breaker Pattern
 
 More topics coming daily.
 
