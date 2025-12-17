@@ -25,6 +25,7 @@ Each day includes:
 - Day 7: ACID Vs BASE (Consistency Models)
 - Day 8: Isolation Levels
 - Day 9: Circuit Breaker Pattern
+- Day 10: Retry & Exponential Backoff
 
 More topics coming daily.
 
