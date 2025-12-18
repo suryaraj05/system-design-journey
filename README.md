@@ -26,6 +26,7 @@ Each day includes:
 - Day 8: Isolation Levels
 - Day 9: Circuit Breaker Pattern
 - Day 10: Retry & Exponential Backoff
+- Day 11: REST API Design
 
 More topics coming daily.
 
