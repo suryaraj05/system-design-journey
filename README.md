@@ -30,6 +30,7 @@ Each day includes:
 - Day 12: API Versioning            
 - Day 13: Pagination & Filtering
 - Day 14: Rate Limiting
+- Day 15: Database Indexing & Query Optimization
 
 More topics coming daily.
 
