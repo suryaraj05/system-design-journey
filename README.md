@@ -27,7 +27,9 @@ Each day includes:
 - Day 9: Circuit Breaker Pattern
 - Day 10: Retry & Exponential Backoff
 - Day 11: REST API Design
-- Day 12: API Versioning
+- Day 12: API Versioning            
+- Day 13: Pagination & Filtering
+- Day 14: Rate Limiting
 
 More topics coming daily.
 
